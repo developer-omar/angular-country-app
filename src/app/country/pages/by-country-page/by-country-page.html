@@ -1,4 +1,8 @@
-<country-search-input (value)="query.set($event)" placeHolder="Buscar por pais" />
+<country-search-input
+  (value)="query.set($event)"
+  placeHolder="Buscar por pais"
+  [initialValue]="query()"
+/>
 
 <country-list
   [countries]="countryResource.value() ?? []"

@@ -1,0 +1,9 @@
+@for (region of regions; track region) {
+  <button
+    class="btn btn-outline mr-2 w-[100px]"
+    (click)="selectRegion(region)"
+    [class.btn-primary]="selectedRegion() === region"
+  >
+    {{ region }}
+  </button>
+}
