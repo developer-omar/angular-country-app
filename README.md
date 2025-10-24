@@ -3,6 +3,15 @@
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli)
 version 20.2.0.
 
+## Libraries
+
+This project use the following libraries/plugins:
+
+- [TailwindCss 4.1](https://tailwindcss.com/)
+- [daisyUI](https://daisyui.com/)
+- [Swiper](https://swiperjs.com/)
+- [Rest Countries](https://restcountries.com/)
+
 ## Development server
 
 To start a local development server, run:
