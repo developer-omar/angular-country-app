@@ -9,7 +9,6 @@ This project use the following:
 
 - [TailwindCss 4.1](https://tailwindcss.com/)
 - [daisyUI](https://daisyui.com/)
-- [Swiper](https://swiperjs.com/)
 - [Rest Countries](https://restcountries.com/)
 
 ## Development server
